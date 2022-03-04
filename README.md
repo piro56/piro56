@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @piro56
-- 👀 I’m interested in OpenGL, AI, algorithms
-- 🌱 I’m currently learning OpenGL, DataStructures & Algorithms.
-- 💞️ I’m looking to collaborate on anything! Contact me if you would like to work together.
-- 📫 How to reach me: You can email me on meetkv47@gmail.com, or you may add my discord Piro#9942
+Hey o/! I am a CS student at Purdue University.
+I usually write code in C++ primarily studying and creating programs with OpenGL.
+I also know Java, Python, and C!
+Email me at meetvk47@gmail.com if you would like to collaborate on anything :)
+
 
 <!---
 piro56/piro56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
