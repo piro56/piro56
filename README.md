@@ -1,7 +1,11 @@
-Hey o/! I am a CS student at Purdue University.
-I usually write code in C++ primarily studying and creating programs with OpenGL.
-I also know Java, Python, and C!
-Email me at meetvk47@gmail.com if you would like to collaborate on anything :)
+### Greetings!
+I am a CS student at Purdue University. <br/>
+- I use C++ primarily studying and creating programs with OpenGL.<br/>
+- I also know Java, Python, and C.<br/>
+
+### Contact:
+If you would like to collaborate feel free to contact me!
+Email: meetvk47@gmail.com <br/>
 
 
 <!---
