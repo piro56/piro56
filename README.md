@@ -5,7 +5,7 @@ I am a CS student at Purdue University. <br/>
 
 ### Contact:
 If you would like to collaborate feel free to contact me!
-Email: meetvk47@gmail.com <br/>
+Email: meetvk57@gmail.com <br/>
 
 
 <!---
