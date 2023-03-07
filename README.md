@@ -4,8 +4,7 @@ I am a CS student at Purdue University. <br/>
 - Additional Languages: Java, Python, and C.<br/>
 
 ### Contact:
-If you would like to collaborate feel free to contact me!
-Email: meetvk57@gmail.com <br/>
+If you would like to collaborate feel free to contact me via email: meetvk57@gmail.com <br/>
 
 
 <!---
