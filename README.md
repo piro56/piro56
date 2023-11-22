@@ -1,7 +1,5 @@
-### Greetings!
-I am a CS student at Purdue University. <br/>
-- I use C++ primarily studying and creating programs with OpenGL.<br/>
-- Additional Languages: Java, Python, and C.<br/>
+computer go brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+
 
 ### Contact:
 If you would like to collaborate feel free to contact me via email: meetvk57@gmail.com <br/>
