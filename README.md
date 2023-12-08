@@ -1,7 +1,6 @@
-I enjoy to code
+I enjoy code
 
-### Contact:
-If you would like to collaborate feel free to contact me via email: meetvk57@gmail.com <br/>
+Contact me via email: meetvk57@gmail.com <br/>
 
 
 <!---
