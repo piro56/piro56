@@ -1,5 +1,4 @@
-computer go brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
-
+I enjoy to code
 
 ### Contact:
 If you would like to collaborate feel free to contact me via email: meetvk57@gmail.com <br/>
