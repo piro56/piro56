@@ -1,5 +1,3 @@
-I enjoy code
-
 Contact me via email: meetvk57@gmail.com <br/>
 
 
